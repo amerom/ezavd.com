@@ -641,7 +641,7 @@ ul#top_links a:hover{
   
 #sub_header{
     height: 250px;
-    background: #ddd url(../img/sub_header.jpg) no-repeat center center;
+    background: #ddd url(../img/rendered.jpg) no-repeat center center;
 	color:#fff;
    background-size: cover;
    -webkit-background-size: cover;
@@ -1004,7 +1004,7 @@ video {
 .intro_title_booking h1 {
     font-size: 46px;
 	margin-bottom:5px;
-	color:#fff;
+	color:#FFFFFF;
 	font-weight:900;
 	font-style:italic;
 	text-transform:uppercase;
@@ -1017,7 +1017,7 @@ video {
     position: relative;
     height: 650px;
 	padding-top:130px;
-    background: #ccc url(../img/slide_hero.jpg) no-repeat center top;
+    background: #ccc url(../img/rendered.jpg) no-repeat center top;
     background-size: cover;
     color:#fff;
 	width: 100%;
