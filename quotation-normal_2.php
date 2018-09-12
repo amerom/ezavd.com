@@ -39,9 +39,9 @@
 						$mail = $_POST['email_quote'];
 
 						/*$subject = "".$_POST['subject'];*/
-						$to = "info@domain.com";
-						$subject = "Quotation request from ELECTRICIAN";
-						$headers = "From: ELECTRICIAN web site <noreply@yourdomain.com>";
+						$to = "mihai.enescu@outlook.com";
+						$subject = "Quotation request from EZAVD.com";
+						$headers = "From: EZAVD web site <web@EZAVD.com>";
 						
 						$message = "\nPERSONAL INFO"; 
 						$message .= "\nName: " . $_POST['firstname_quote'];

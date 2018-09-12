@@ -35,7 +35,7 @@ if(trim($name_booking ) == '') {
 }
 
 //$address = "HERE your email address";
-$address = "info@domain.com";
+$address = "mihai.enescu@outlook.com";
 
 
 // Below the subject of the email
