@@ -6,3 +6,18 @@
 @import url("elegant_font/elegant_font.css");	/* Icon pack */
 @import url("fontello/css/fontello.css");				/* Icon pack */
 @import url("magnific-popup.css");						/* Lightbox & dialog script */
+
+.service-image {
+    border-bottom: solid 1px #CCCCCC !important;
+    padding: 10px;
+}
+
+.service-box {
+    text-align: center;
+}
+
+.service-row {
+    border: solid 1px #CCCCCC;
+    margin-bottom: 20px;
+    padding-top:20px;
+}

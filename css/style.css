@@ -640,8 +640,8 @@ ul#top_links a:hover{
   animation-name: bounceOutUp; }
   
 #sub_header{
-    height: 250px;
-    background: #ddd url(../img/rendered.jpg) no-repeat center center;
+    height: 650px;
+    background: #ddd url(../img/camera.jpg) no-repeat center top;
 	color:#fff;
    background-size: cover;
    -webkit-background-size: cover;
@@ -1004,7 +1004,7 @@ video {
 .intro_title_booking h1 {
     font-size: 46px;
 	margin-bottom:5px;
-	color:#FFFFFF;
+	color:#000000;
 	font-weight:900;
 	font-style:italic;
 	text-transform:uppercase;
@@ -1017,7 +1017,7 @@ video {
     position: relative;
     height: 650px;
 	padding-top:130px;
-    background: #ccc url(../img/rendered.jpg) no-repeat center top;
+    background: #ccc url(../img/camera.jpg) no-repeat center top;
     background-size: cover;
     color:#fff;
 	width: 100%;
